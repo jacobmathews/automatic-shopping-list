@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shoppu</string>
+
+    <string name="title_shopping">Shopping</string>
+    <string name="title_ingredients">Ingredients</string>
+    <string name="title_settings">Settings</string>
+</resources>
